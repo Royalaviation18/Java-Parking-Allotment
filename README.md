@@ -25,7 +25,7 @@ Due to government regulation, the system should provide me with the ability to f
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://link-to-project](https://github.com/Royalaviation18/Java-Parking-Allotment
 ```
 
 Go to the project directory
