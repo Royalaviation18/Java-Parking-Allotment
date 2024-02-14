@@ -58,7 +58,7 @@ class ParkingLot {
     }
 
     public void getRegistrationNumbersForCarsWithColor(String color) {
-        String registrationNumbers = colorToRegistration.getOrDefault(color, "");
+        String registrationNumbers = colorToRegistration.getOrDefault(color, "White");
         if (registrationNumbers.isEmpty()) {
             System.out.println("No cars found with color " + color);
         } else {
