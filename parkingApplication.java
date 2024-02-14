@@ -15,7 +15,7 @@ class ParkingLot {
         initializeParkingLot();
     }
 
-    private void initializeParkingLot() {
+    private void initializeParkingLot() {   
         for (int i = 1; i <= capacity; i++) {
             slots.put(i, null);
         }
