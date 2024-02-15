@@ -39,8 +39,7 @@ Compile the program
 ```bash
   javac parkingApplication.java
 ```
-
-run the progrma
+Run the program
 
 ```bash
   java ParkingLotApplication
